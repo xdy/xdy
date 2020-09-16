@@ -1,16 +1,22 @@
-### Hi there 👋
+### XDY
 
-<!--
-**xdy/xdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Developer, mostly backend.
+* Nerd, mostly rpg:s.
 
-Here are some ideas to get you started:
+When the items in the above list interact, some kind of nerdish software may be created or extended.
+Lately that's been mostly:
+https://github.com/xdy/twodsix-foundryvtt
+https://github.com/xdy/foundryvtt-lang-sv
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+But I've also added - and subtracted - bugs and features to at least the following projects:
+https://github.com/xdy-forks/TravellerTools
+https://github.com/xdy-forks/maptool
+https://github.com/xdy-forks/HL_DD_5e_Colab
+https://github.com/xdy-forks/pcgen-base
+
+
+If you've enjoyed something I've created:
+https://ko-fi.com/xdy1337
+
+If you've *not* enjoyed something I've created:
+No coffee for me. Bad xdy. :(
