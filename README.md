@@ -8,7 +8,7 @@ Lately that's been mostly:
 * https://github.com/xdy/twodsix-foundryvtt
 * https://github.com/xdy/foundryvtt-lang-sv
 
-But I've also added - and subtracted - bugs and features to at least the following projects:
+But I've also added - and subtracted :) - bugs and features to at least the following projects:
 * https://github.com/xdy-forks/TravellerTools
 * https://github.com/xdy-forks/maptool
 * https://github.com/xdy-forks/HL_DD_5e_Colab
