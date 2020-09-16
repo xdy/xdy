@@ -14,7 +14,7 @@ But I've also added - and subtracted :) - bugs and features to at least the foll
 * https://github.com/xdy-forks/HL_DD_5e_Colab
 * https://github.com/xdy-forks/pcgen-base
 
-Though, sometimes non-software is created:
+I've even done something non-software-related:
 * https://www.drivethrurpg.com/product/286145/Setting-Rule-Veritas
 
 If you've enjoyed something I've created:
