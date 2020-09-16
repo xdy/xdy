@@ -19,4 +19,4 @@ If you've enjoyed something I've created:
 * https://ko-fi.com/xdy1337
 
 If you've *not* enjoyed something I've created:
-No coffee for me. Bad xdy. :(
+* No coffee for me. Bad xdy. :(
