@@ -16,7 +16,7 @@ But I've also added - and subtracted :) - bugs and features to at least the foll
 
 
 If you've enjoyed something I've created:
-* https://ko-fi.com/xdy1337
+* [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L027AXX)
 
 If you've *not* enjoyed something I've created:
 * No coffee for me. Bad xdy. :(
