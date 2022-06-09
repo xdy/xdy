@@ -17,7 +17,7 @@ But I've also added - and subtracted :) - bugs and features in at least the foll
 * https://github.com/xdy-forks/pcgen-base
 
 I've even done something non-software-related:
-* https://www.drivethrurpg.com/product/286145/Setting-Rule-Veritas
+* [Setting Rule: Veritas](https://www.drivethrurpg.com/product/286145/Setting-Rule-Veritas?affiliate_id=56341) for Savage Worlds
 
 If you've enjoyed something I've created:
 * [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L027AXX)
