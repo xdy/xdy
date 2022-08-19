@@ -10,7 +10,7 @@ Lately that's been mostly:
 * https://github.com/xdy/foundryvtt-lang-sv
 
 But I've also added - and subtracted :) - bugs and features in at least the following projects:
-* https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/
+* ~~https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/~~ https://github.com/foundryvtt/pf2e
 * https://github.com/xdy-forks/TravellerTools
 * https://github.com/xdy-forks/maptool
 * https://github.com/xdy-forks/HL_DD_5e_Colab
